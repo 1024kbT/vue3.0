@@ -1,6 +1,6 @@
 <template>
   <h1>{{ msg }}</h1>
-  <button>+++</button>
+  <button>++++</button>
 </template>
 <script>
 export default {
